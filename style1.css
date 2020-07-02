@@ -1,0 +1,55 @@
+
+            h1{
+               
+            
+                font-size: 11mm;
+                display: flex;
+                justify-content: center;
+            
+            }
+            h2{
+                font-size: 6mm;
+                
+            }
+            h4{
+                font-size: 6mm;
+                
+            }
+            br{
+                font-size: 5mm;
+                
+            }
+            image{
+                border: solid;
+                border-color: black;
+                color: whitesmoke;
+                display: flex;
+                
+            }
+            a{
+                font-size: 8mm;
+                
+                color: black;
+                text-decoration: none;
+                font-weight:bold;
+            }
+            h3{
+                font-size: 8mm;
+                display: flex;
+                
+                
+            }
+            .header{
+                border: solid;
+                background-color:cyan;
+                display: flex;
+                justify-content: space-between;
+            }
+            .footer{
+                border: solid;
+                
+                background-color:lightblue;
+                display: flex;
+                justify-content: flex-end;
+            }
+
